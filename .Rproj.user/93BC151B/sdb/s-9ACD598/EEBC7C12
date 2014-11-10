@@ -1,0 +1,16 @@
+{
+    "contents" : "---\noutput:\n  html_document:\n    css: libs/custom.css\n---\n![logo][logo]\n\n\n\n[logo]:./images/ialsa_long.png",
+    "created" : 1415647804727.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3772388945",
+    "id" : "EEBC7C12",
+    "lastKnownWriteTime" : 1415648338,
+    "path" : "~/GitHub/ialsa.github.io/index.Rmd",
+    "project_path" : "index.Rmd",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_markdown"
+}

@@ -1,0 +1,10 @@
+---
+output:
+  html_document:
+    css: libs/custom.css
+---
+![logo][logo]
+
+
+
+[logo]:./images/ialsa_long.png
