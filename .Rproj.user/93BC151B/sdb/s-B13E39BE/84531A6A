@@ -1,0 +1,16 @@
+{
+    "contents" : "<style type=\"text/css\">\n\n/* padding for bootstrap navbar */\nbody {\n  padding-top: 50px;\n  padding-bottom: 40px;\n}\n@media (max-width: 979px) {\n  body {\n    padding-top: 0;\n  }\n}\n\n/* offset scroll position for anchor links (for fixed navbar)  */\n@media (min-width: 980px) {\n  .section h2 {\n    padding-top: 52px;\n    margin-top: -52px;\n  }\n  .section h3 {\n    padding-top: 52px;\n    margin-top: -52px;\n  }\n}\n\n\n/* don't use link color in navbar */\n.dropdown-menu>li>a {\n  color: black;\n}\n\n/* some padding for disqus */\n#disqus_thread {\n  margin-top: 45px;\n}\n\n</style>\n\n<link rel=\"stylesheet\" href=\"libs/font-awesome-4.1.0/css/font-awesome.min.css\"/>\n\n\n",
+    "created" : 1415650479459.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1293908411",
+    "id" : "84531A6A",
+    "lastKnownWriteTime" : 1415650520,
+    "path" : "~/GitHub/ialsa.github.io/include/in_header.html",
+    "project_path" : "include/in_header.html",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "html"
+}
