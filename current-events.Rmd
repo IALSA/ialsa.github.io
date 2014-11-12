@@ -1,0 +1,10 @@
+---
+output:
+  html_document:
+    css: libs/custom.css
+---
+![logo][logo]
+
+In fall 2014 the Centre on Aging ([COAG](http://www.coag.uvic.ca/)) offers  [Methodology Colloquium lecture series](http://ialsa.github.io/COAG-colloquium-2014F/) focusing on the issue of reproducible research and specifically organization of research workflow with RStudio. 
+
+[logo]:./images/ialsa_long.png

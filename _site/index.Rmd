@@ -1,5 +1,5 @@
 ![logo][logo]
 
-
+Welcome to the github embassy of the [IALSA Research Network](http://ialsa.org).
 
 [logo]:./images/ialsa_long.png
